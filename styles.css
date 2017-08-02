@@ -1,0 +1,50 @@
+@import "normalize.css"/*tpa=http://unix-stroi.ru/bitrix/templates/unix/css/normalize.css*/;
+@import "stylesheet.css"/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/stylesheet.css*/;
+@import "plugins.css"/*tpa=http://unix-stroi.ru/bitrix/templates/unix/css/plugins.css*/ all;
+@import "styles_all.css"/*tpa=http://unix-stroi.ru/bitrix/templates/unix/css/styles_all.css*/ all;
+
+@-ms-viewport {width: device-width;}
+@viewport {width: device-width;}
+
+
+/* можно дописать дополнительные правила для классов из h5bp */
+.hidden {}
+.visuallyhidden {}
+.invisible {}
+
+.clearfix {}
+.clearfix:before {width: 100%;}
+.clearfix:after {}
+
+.borderbox,
+.borderbox:before,
+.borderbox:after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+.tac {text-align: center;} /* классы для выравнивания */
+.tal {text-align: left;}
+.tar {text-align: right;}
+.vam {vertical-align: middle;}
+.vat {vertical-align: top;}
+.vab {vertical-align: bottom;}
+
+@media print {
+    a:after {content: ""; display: none;}
+    a {border: 0;color: black;}
+    * {-webkit-print-color-adjust: exact; print-color-adjust: exact;}
+
+    .donotprint {display: none !important;}
+    .forprint {display: block;}
+}
+
+.new_img {
+float: left;
+margin-right: 15px;
+padding: 2px;
+border: 1px solid #ddd;
+
+
+}

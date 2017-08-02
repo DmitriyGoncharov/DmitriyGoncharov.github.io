@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'PT Serif';
+    src: local('PT Serif'), local('PTSerif-Regular'), url('ptserif.woff2')/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/ptserif.woff2*/ format('woff2'), url('ptserif.woff')/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/ptserif.woff*/ format('woff'), url('ptserif.ttf')/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/ptserif.ttf*/ format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PT Serif';
+    src: local('PT Serif Italic'), local('PTSerif-Italic'), url('ptserifitalic.woff2')/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/ptserifitalic.woff2*/ format('woff2'), url('ptserifitalic.woff')/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/ptserifitalic.woff*/ format('woff'), url('ptserifitalic.ttf')/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/ptserifitalic.ttf*/ format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'PT Serif';
+    src: local('PT Serif Bold'), local('PTSerif-Bold'), url('ptserifbold.woff2')/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/ptserifbold.woff2*/ format('woff2'), url('ptserifbold.woff')/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/ptserifbold.woff*/ format('woff'), url('ptserifbold.ttf')/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/ptserifbold.ttf*/ format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PT Serif';
+    src: local('PT Serif Bold Italic'), local('PTSerif-BoldItalic'), url('ptserifbolditalic.woff2')/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/ptserifbolditalic.woff2*/ format('woff2'), url('ptserifbolditalic.woff')/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/ptserifbolditalic.woff*/ format('woff'), url('ptserifbolditalic.ttf')/*tpa=http://unix-stroi.ru/bitrix/templates/unix/fonts/ptserifbolditalic.ttf*/ format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
