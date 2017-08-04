@@ -211,10 +211,11 @@ textarea {
 
 /* ################## */
 
-.sprite {
-    background-image: url(sprite.png)/*tpa=http://unix-stroi.ru/bitrix/templates/unix/images/sprite.png*/
-    ;
-}
+
+/* .sprite {
+    background-image: url(sprite.png)tpa=http://unix-stroi.ru/bitrix/templates/unix/images/sprite.png
+    ;  
+}  */
 
 .vcomp {
     position: relative;
