@@ -1818,8 +1818,8 @@ h6 {
 }
 
 .common-white-wrap {
-    padding: 0 2.7142857142857144em 2.857142857142857em;
-    background: #fff;
+    padding: 2em 2.7142857142857144em 2.857142857142857em;
+    /* background: #fff; */
 }
 
 .common-white-wrap .section-title {
