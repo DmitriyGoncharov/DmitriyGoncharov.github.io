@@ -146,7 +146,7 @@ body {
 
 .coll-me-wrap {
     background: url(../img/land/bg_contacts_cta.jpg) no-repeat;
-    height: 100px;
+    /* height: 100px; */
     position: relative;
     margin-bottom: 31px;
     -webkit-background-size: cover;
@@ -717,16 +717,16 @@ body {
 
 .coll-text-1 {
     display: flex;
-    /* width: 100%; */
-    position: relative;
+    width: 1000;
+    /* position: relative; */
     z-index: 1;
     justify-content: space-between;
     Align-items: center;
-    height: inherit;
+    height: 100px;
 }
 
 .coll-text-1 h2 {
-    /*margin-top: 0;*/
+    margin-top: 0;
     text-align: left;
 }
 
