@@ -81,7 +81,7 @@
 .fancybox-close{
     background-image: url('fancy_close.png');
     background-repeat: no-repeat;
-    background-position: 50% 50%;
+    background-position: 50% 1%;
 }
 
 #fancybox-loading {
