@@ -30,8 +30,9 @@ body {
 
 .logo-wrap {
     position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
+    /* top: 50%; */
+    /* transform: translateY(-50%); */
+    transform: translateX(-50%);
 }
 
 .main-menu_2>ul>li {
