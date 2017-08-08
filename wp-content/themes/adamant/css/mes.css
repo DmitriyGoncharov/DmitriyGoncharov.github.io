@@ -592,7 +592,7 @@ body {
     display: inline-block;
     vertical-align: middle;
     margin-right: 5.357142857142857em;
-    margin-bottom: 50px;
+    margin-bottom: 45px;
 }
 
 .blocks_wrap {
@@ -2540,7 +2540,7 @@ h2.job-title,
         font-size: 1.8571428571428572em;
     }
     .logo__wrap li {
-        margin-right: 5.357142857142857em;
+        margin-right: 65px;
     }
 }
 
@@ -2582,26 +2582,24 @@ h2.job-title,
     padding: 0;
 }
 
-
-
-
-
-.coll-text.wrap h2{
-    margin: 0;
-}
-.coll-text-1.wrap h2{
+.coll-text.wrap h2 {
     margin: 0;
 }
 
+.coll-text-1.wrap h2 {
+    margin: 0;
+}
 
 .d-table {
     display: table;
     width: 100%;
 }
+
 .d-row {
     display: table-row;
 }
+
 .d-col {
     display: table-cell;
-    width:31%;
+    width: 31%;
 }
