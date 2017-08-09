@@ -1640,7 +1640,7 @@ input[type="button"]:focus {
 }
 
 .page-footer .footer-bord {
-    padding-top: 0;
+    padding-top: 8px;
     height: 52px;
 }
 
