@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac724bc5-0050-47c1-9bde-89de3600095c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/index1124.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/index2284.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/index2763.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/index5647.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/index74a4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/index775c.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/index8b78.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/index9003.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/index964a.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/indexa1bb.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/indexa332.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/indexb966.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/indexda04.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/indexdec0.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/indexf0e2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/indexf148.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/indexf314.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/indexfe5a.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-object/indexfeba.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/adamant/img/297783029c45ef7e7abb0630b71ca21b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/adamant/img/393fe91c1dbf0db560b0e2e7ef7d7376.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/adamant/img/43f8258210b1350436713618ff948602.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/adamant/img/46e1116627e753a1f84f7d47d91d35ba.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/adamant/img/69cfdb6ae1d60f07da1a9d6737ee73c8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/adamant/img/7859171a6713f22f296ab65df89eeeec.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ajax-object/index01e9.html" afterPath="$PROJECT_DIR$/ajax-object/object1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ajax-object/index2b52.html" afterPath="$PROJECT_DIR$/ajax-object/object2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ajax-object/index2d4c.html" afterPath="$PROJECT_DIR$/ajax-object/object3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ajax-object/index5ac7.html" afterPath="$PROJECT_DIR$/ajax-object/object4.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ajax-object/index6cee.html" afterPath="$PROJECT_DIR$/ajax-object/object5.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ajax-object/index7e4e.html" afterPath="$PROJECT_DIR$/ajax-object/object6.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clients/index.html" afterPath="$PROJECT_DIR$/clients/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins.css" afterPath="$PROJECT_DIR$/plugins.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/adamant/fancybox/jquery.fancybox.css" afterPath="$PROJECT_DIR$/wp-content/themes/adamant/fancybox/jquery.fancybox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/adamant/css/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/adamant/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,11 +23,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="764" column="93" lean-forward="false" selection-start-line="764" selection-start-column="69" selection-end-line="764" selection-end-column="93" />
+            <state relative-caret-position="319">
+              <caret line="755" column="0" lean-forward="true" selection-start-line="755" selection-start-column="0" selection-end-line="755" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#3;n#div#3;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#3;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -73,7 +42,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="object1.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clients/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="299" column="34" lean-forward="true" selection-start-line="299" selection-start-column="34" selection-end-line="299" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="object1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajax-object/object1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -87,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/ajax-object/object2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -96,8 +75,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/adamant/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="1815" column="0" lean-forward="false" selection-start-line="1815" selection-start-column="0" selection-end-line="1815" selection-end-column="0" />
+            <state relative-caret-position="505">
+              <caret line="6585" column="13" lean-forward="false" selection-start-line="6585" selection-start-column="13" selection-end-line="6585" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -106,8 +85,8 @@
       <file leaf-file-name="mes.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/adamant/css/mes.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14280">
-              <caret line="952" column="18" lean-forward="false" selection-start-line="952" selection-start-column="13" selection-end-line="952" selection-end-column="18" />
+            <state relative-caret-position="-24260">
+              <caret line="952" column="17" lean-forward="false" selection-start-line="952" selection-start-column="13" selection-end-line="952" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -146,6 +125,14 @@
       <find>fancybox_sprite.png</find>
       <find>benefits</find>
       <find>ЗНАЧИМЫЕ</find>
+      <find>--&gt;</find>
+      <find>mes</find>
+      <find>style.css</find>
+      <find>width=&quot;180px&quot; height=&quot;130px&quot;</find>
+      <find>ОБЪЕКТЫ</find>
+      <find>Объекты</find>
+      <find>menu-item-46</find>
+      <find>objects</find>
     </findStrings>
     <replaceStrings>
       <replace>31%</replace>
@@ -160,12 +147,13 @@
         <option value="$PROJECT_DIR$/styles_all.css" />
         <option value="$PROJECT_DIR$/styles.css-v=7.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/adamant/css/mes.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/adamant/css/style.css" />
         <option value="$PROJECT_DIR$/plugins.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/adamant/fancybox/jquery.fancybox.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/ajax-object/object2.html" />
         <option value="$PROJECT_DIR$/ajax-object/object1.html" />
+        <option value="$PROJECT_DIR$/clients/index.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/adamant/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -176,9 +164,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="25" />
     <option name="width" value="1280" />
-    <option name="height" value="750" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -195,6 +182,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -217,29 +205,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DmitriyGoncharov.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DmitriyGoncharov.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adamant" />
+              <option name="myItemId" value="clients" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -259,7 +225,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -269,10 +234,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="FullScreen" value="true" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.10.0/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.10.0/bin/node" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -366,20 +331,20 @@
       <updated>1501881529943</updated>
       <workItem from="1501881532582" duration="3579000" />
       <workItem from="1501968693751" duration="2766000" />
+      <workItem from="1502225075119" duration="2572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6345000" />
+    <option name="totallyTimeSpent" value="8917000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1280" height="750" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -390,6 +355,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -405,6 +371,71 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11460">
+          <caret line="764" column="64" lean-forward="true" selection-start-line="764" selection-start-column="64" selection-end-line="764" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#div#3;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#3;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#3;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#3;n#div#3;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#figure#0;n#a#0;n#li#0;n#ul#0;n#section#0;n#div#3;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#figure#0;n#a#0;n#li#0;n#ul#0;n#section#0;n#div#3;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#figure#0;n#a#0;n#li#1;n#ul#0;n#section#0;n#div#3;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#figure#0;n#a#0;n#li#1;n#ul#0;n#section#0;n#div#3;n#div#1;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-object/object1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-object/object2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/adamant/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27225">
+          <caret line="1815" column="0" lean-forward="false" selection-start-line="1815" selection-start-column="0" selection-end-line="1815" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/adamant/css/mes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14280">
+          <caret line="952" column="17" lean-forward="true" selection-start-line="952" selection-start-column="13" selection-end-line="952" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css-v=7.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17475">
+          <caret line="1165" column="22" lean-forward="false" selection-start-line="1165" selection-start-column="22" selection-end-line="1165" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles_all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -462,14 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/adamant/css/mes.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14280">
-          <caret line="952" column="18" lean-forward="false" selection-start-line="952" selection-start-column="13" selection-end-line="952" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles.css-v=7.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17475">
@@ -488,30 +511,14 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/adamant/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="1815" column="0" lean-forward="false" selection-start-line="1815" selection-start-column="0" selection-end-line="1815" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ajax-object/object3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax-object/index964a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-object/index964a.html" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/adamant/fancybox/jquery.fancybox.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -520,26 +527,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax-object/object2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="30" column="102" lean-forward="false" selection-start-line="30" selection-start-column="102" selection-end-line="30" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-object/object1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/adamant/css/mes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24260">
+          <caret line="952" column="17" lean-forward="false" selection-start-line="952" selection-start-column="13" selection-end-line="952" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="299" column="34" lean-forward="true" selection-start-line="299" selection-start-column="34" selection-end-line="299" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-object/object2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/adamant/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="6585" column="13" lean-forward="false" selection-start-line="6585" selection-start-column="13" selection-end-line="6585" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="764" column="93" lean-forward="false" selection-start-line="764" selection-start-column="69" selection-end-line="764" selection-end-column="93" />
+        <state relative-caret-position="319">
+          <caret line="755" column="0" lean-forward="true" selection-start-line="755" selection-start-column="0" selection-end-line="755" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#3;n#div#3;n#div#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#3;n#div#0;n#body#0;n#!!top" expanded="true" />
@@ -550,14 +588,6 @@
             <element signature="n#style#0;n#div#0;n#figure#0;n#a#0;n#li#1;n#ul#0;n#section#0;n#div#3;n#div#1;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#figure#0;n#a#0;n#li#1;n#ul#0;n#section#0;n#div#3;n#div#1;n#body#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax-object/object1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="62" lean-forward="false" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>

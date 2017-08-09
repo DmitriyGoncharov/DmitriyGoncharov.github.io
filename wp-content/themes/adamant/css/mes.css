@@ -3,8 +3,8 @@ input[type="button"]:focus {
     outline: none;
 }
 
-body {
-    background: #fff none;
+/*body {*/
+    /*background: #fff none;*/
 }
 
 .main-menu_2 {
@@ -1641,7 +1641,6 @@ body {
 
 .page-footer .footer-bord {
     padding-top: 0;
-    border: none;
     height: 52px;
 }
 
@@ -1656,11 +1655,11 @@ body {
 }
 
 .page-footer .copyright {
-    font-size: 18px;
-    color: #efefef;
-    text-transform: uppercase;
-    font-family: 'dincondensedc', 'Arial', sans-serif, serif;
-    line-height: 52px;
+    float: left;
+    margin-left: 1.6em;
+    font-family: 'helveticaneuecyr-light-webfont', 'Arial', sans-serif, serif;
+    font-size: 0.8928571428571429em;
+    line-height: 1;
 }
 
 .page-footer .designed-by {

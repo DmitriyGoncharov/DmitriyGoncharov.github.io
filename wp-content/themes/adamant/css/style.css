@@ -2383,7 +2383,7 @@ h6 {
 .page-footer .holding-link {
     float: left;
     margin-left: 3.2em;
-    margin-top: -1px;
+    margin-top: 10px;
     font-family: 'helveticaneuecyr-light-webfont', 'Arial', sans-serif, serif;
     font-size: 0.8928571428571429em;
     line-height: 1;
@@ -6578,4 +6578,11 @@ div.fancybox-inner {
     -moz-animation: 1.2s ease-in-out 0s normal none infinite running trambling-animation;
     -o-animation: 1.2s ease-in-out 0s normal none infinite running trambling-animation;
     animation: 1.2s ease-in-out 0s normal none infinite running trambling-animation;
+}
+
+
+
+.clients-icons img {
+    width: 165px;
+    height:130px;
 }
