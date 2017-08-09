@@ -423,7 +423,7 @@ input[type="button"]:focus {
 
 .peim-box__list_icon {
     display: block;
-    margin: 0;
+    margin: 71px;
     padding: 0;
     list-style: none;
     text-align: left;

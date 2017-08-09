@@ -2350,6 +2350,8 @@ h6 {
     padding-top: 0.5714285714285714em;
     border-top: 8px solid #589720;
     *zoom: 1;
+    margin-top: -0px;
+
 }
 
 .page-footer .footer-bord:before,
@@ -2383,7 +2385,7 @@ h6 {
 .page-footer .holding-link {
     float: left;
     margin-left: 3.2em;
-    margin-top: 10px;
+    /*margin-top: 10px;*/
     font-family: 'helveticaneuecyr-light-webfont', 'Arial', sans-serif, serif;
     font-size: 0.8928571428571429em;
     line-height: 1;
@@ -4905,7 +4907,7 @@ h6 {
 /* jobs styles */
 
 .job-page-wrap {
-    margin-bottom: 2.857142857142857em;
+    /*margin-bottom: 2.857142857142857em;*/
     border-bottom: 1px solid #cfcfcf;
 }
 
@@ -6586,6 +6588,90 @@ div.fancybox-inner {
     width: 165px;
     height:130px;
 }
+
+
+/*УСЛУГИ*/
+.container{
+    font: 14px 'GothaPro', Arial, sans-serif;
+}
+
 .promo_usugi_variant {
     margin: 100px 0 72px;
 }
+.promo_usugi_variant .item{
+margin: 0 0 28px;
+padding: 37px 0 0;
+}
+
+.img > img {
+    display: block;
+    height: 270px;
+    width: 270px;
+    float: left;
+}
+
+img {
+    max-width: 100%;
+}
+
+img {
+    border: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    max-height: 1000000px;
+}
+
+.promo_usugi_variant .item .desc {
+    padding: 0 0 0 300px;
+}
+
+.promo_usugi_variant .desc_title > a {
+    color: #2a2f35;
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: -0.7px;
+    text-decoration: underline
+    }
+
+.promo_usugi_variant .item li {
+    margin: 0 0 10px;
+    padding: 0 0 0 17px;
+    position: relative;
+}
+
+.promo_usugi_variant .desc_text {
+    color: #54616f;
+    font-size: 14px;
+    line-height: 28px;
+    margin: 0 0 22px;
+}
+
+.promo_usugi_variant .title {
+    color: #2a2f35;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: -0.7px;
+    margin: 0 0 23px;
+    text-align: center;
+}
+
+.promo_usugi_variant .item li:after {
+    background: #ffbb02 none repeat scroll 0 0;
+    border-radius: 50%;
+    content: "";
+    height: 5px;
+    left: 2px;
+    position: absolute;
+    top: 9px;
+    width: 5px;
+}
+
+.promo_usugi_variant .item {
+    border-top: 1px solid #cfcfcf;
+
+}
+
+
