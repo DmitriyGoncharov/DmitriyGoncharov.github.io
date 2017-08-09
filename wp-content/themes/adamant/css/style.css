@@ -2068,7 +2068,7 @@ h6 {
 .info-stripe .search-form input[type="text"]::-moz-placeholder {
     font-family: 'helveticaneuecyr-roman-webfont', 'Arial', sans-serif, serif;
     font-size: 1em;
-    line-height: auto;
+    line-height: auto ;
     line-height: normal;
     color: #589720;
 }
@@ -6585,4 +6585,7 @@ div.fancybox-inner {
 .clients-icons img {
     width: 165px;
     height:130px;
+}
+.promo_usugi_variant {
+    margin: 100px 0 72px;
 }

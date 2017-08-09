@@ -5,7 +5,7 @@ input[type="button"]:focus {
 
 /*body {*/
     /*background: #fff none;*/
-}
+
 
 .main-menu_2 {
     margin-right: 0;
@@ -407,7 +407,7 @@ input[type="button"]:focus {
 .main-wrap {
     background-color: #efefef;
     border-top: 1px solid #cfcfcf;
-    margin-bottom: 90px;
+    margin-bottom: 0px;
 }
 
 .section-2 {
@@ -719,7 +719,7 @@ input[type="button"]:focus {
 
 .coll-text-1 {
     display: flex;
-    width: 1000;
+    width: 1000px;
     /* position: relative; */
     z-index: 1;
     justify-content: space-between;
