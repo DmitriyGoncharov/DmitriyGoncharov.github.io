@@ -3,9 +3,11 @@ input[type="button"]:focus {
     outline: none;
 }
 
-/*body {*/
-    /*background: #fff none;*/
 
+/*body {*/
+
+
+/*background: #fff none;*/
 
 .main-menu_2 {
     margin-right: 0;
@@ -355,7 +357,7 @@ input[type="button"]:focus {
 
 .team_pic {
     background-color: #589720;
-    height: 165px;
+    /* height: 165px; */
     /* padding-left: 15px;
     width: 165px;
     display: inline-block; */
@@ -388,7 +390,7 @@ input[type="button"]:focus {
 }
 
 .team_text p {
-    font-size: 1.142857142857143em;
+    /* font-size: 1.142857142857143em; */
 }
 
 .team_text p strong {
@@ -2601,5 +2603,5 @@ h2.job-title,
 
 .d-col {
     display: table-cell;
-    width: 31%;
+    width: 335px;
 }
