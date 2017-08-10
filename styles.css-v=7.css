@@ -281,13 +281,13 @@ p {
     -moz-box-shadow: inset 0 -5px 0 0 rgba(0, 0, 0, .15), 0 2px 9px 0 rgba(0, 0, 0, .45);
     -webkit-box-shadow: inset 0 -5px 0 0 rgba(0, 0, 0, .15), 0 2px 9px 0 rgba(0, 0, 0, .45);
     box-shadow: inset 0 -5px 0 0 rgba(0, 0, 0, .15), 0 2px 9px 0 rgba(0, 0, 0, .45);
-    background: rgba(232, 168, 65, 1);
-    background: -moz-linear-gradient(top, rgba(232, 168, 65, 1) 0%, rgba(213, 101, 53, 1) 100%);
-    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(232, 168, 65, 1)), color-stop(100%, rgba(213, 101, 53, 1)));
-    background: -webkit-linear-gradient(top, rgba(232, 168, 65, 1) 0%, rgba(213, 101, 53, 1) 100%);
-    background: -o-linear-gradient(top, rgba(232, 168, 65, 1) 0%, rgba(213, 101, 53, 1) 100%);
-    background: -ms-linear-gradient(top, rgba(232, 168, 65, 1) 0%, rgba(213, 101, 53, 1) 100%);
-    background: linear-gradient(to bottom, rgba(232, 168, 65, 1) 0%, rgba(213, 101, 53, 1) 100%);
+    background: rgba(88, 151, 32, 1);
+    background: -moz-linear-gradient(top, rgba(88, 151, 32, 1) 0%, rgba(88, 215, 32, 1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(88, 151, 32, 1)), color-stop(100%, rgba(88, 215, 32, 1)));
+    background: -webkit-linear-gradient(top, rgba(88, 151, 32, 1) 0%, rgba(88, 215, 32, 1) 100%);
+    background: -o-linear-gradient(top, rgba(88, 151, 32, 1) 0%, rgba(88, 215, 32, 1) 100%);
+    background: -ms-linear-gradient(top, rgba(88, 151, 32, 1) 0%, rgba(88, 215, 32, 1) 100%);
+    background: linear-gradient(to bottom, rgba(88, 151, 32, 1) 0%, rgba(88, 215, 32, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e8a841', endColorstr='#d56535', GradientType=0);
 }
 
