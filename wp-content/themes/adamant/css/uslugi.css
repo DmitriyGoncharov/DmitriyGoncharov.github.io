@@ -1,0 +1,71 @@
+.podr-info {
+    width: 100%;
+    text-align: justify;
+}
+
+.podr-info p {
+    margin: 20px 0;
+}
+
+.podr-info>div {
+    margin: 60px 150px 0 !important;
+}
+
+.podr-info ul li {
+    margin: 0 0 10px;
+    padding: 0 0 0 20px;
+    position: relative;
+}
+
+.text_page ul li:after,
+
+/* .text_edit ul li:after {
+    background: #ffbb02 none repeat scroll 0 0;
+    border-radius: 50%;
+    content: " ";
+    height: 5px;
+    left: 0;
+    position: absolute;
+    top: 7px;
+    width: 5px; */
+
+
+}
+.podr-info item li {
+    margin: 0 0 10px;
+    padding: 0 0 0 17px;
+    position: relative;
+}
+.top-baner-wrap h1 {
+    font-size: 51px;
+    /* padding-left: 26px; */
+    
+    padding-top: 20px;
+    color: #fff;
+    font-family: 'dincondensedc', 'Arial', sans-serif, serif;
+}
+.top-baner-wrap h5 {
+    display: block;
+    font-size: 18px;
+    color: #fff;
+    font-family: helveticaneuecyr-light-webfont;
+    clear: right;
+}
+.top-baner-wrap {
+    height: 375px;
+    max-width: 1600px;
+    background-size: auto 100%;
+    padding: 0;
+    background-position: 68% 50%;
+    width: 100%;
+}
+.banner-wrap {
+    width: 92.5%;
+    padding: 0;
+    margin: 0 auto;
+    min-width: 900px;
+    max-width: 1146px;
+    position: relative;
+    top: 42.5%;
+    transform: translateY(-50%);
+}
