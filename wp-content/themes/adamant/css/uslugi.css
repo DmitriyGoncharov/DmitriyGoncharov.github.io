@@ -77,3 +77,7 @@ li.first::after{
     width: 6px;
     border-radius: 50%;
 }
+hr.bord {
+width: 100px;
+    border-top: 5px solid #ffffff;
+}
