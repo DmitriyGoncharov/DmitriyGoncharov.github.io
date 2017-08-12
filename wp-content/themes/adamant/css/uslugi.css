@@ -1,60 +1,13 @@
-.podr-info {
+.page-header {
+    top: 37px;
+    z-index: 1001;
     width: 100%;
-    text-align: justify;
+    background-color: #efefef;
+    border-bottom: 1px solid #cfcfcf;
+    height: 75px;
 }
-
-.podr-info p {
-    margin: 50px 0;
-}
-
-.podr-info>div {
-    padding-left: 200px;
-    padding-top: 68px;
-    padding-bottom: 40px;
-}
-
-.podr-info ul li {
-    margin: 0 0 10px;
-    padding: 0 0 0 20px;
-    position: relative;
-}
-
-.text_page ul li:after,
-
-/*.text_edit ul li:after {*/
-    /*background: #ffbb02 none repeat scroll 0 0;*/
-    /*border-radius: 50%;*/
-    /*content: " ";*/
-    /*height: 5px;*/
-    /*left: 0;*/
-    /*position: absolute;*/
-    /*top: 7px;*/
-    /*width: 5px; */
-
-/*}*/
-.podr-info item li {
-    margin: 0 0 10px;
-    padding: 0 0 0 17px;
-    position: relative;
-}
-.top-baner-wrap h1 {
-    font-size: 51px;
-    /* padding-left: 26px; */
-
-    padding-top: 20px;
-    color: #fff;
-    font-family: 'dincondensedc', 'Arial', sans-serif, serif;
-}
-.podr-info h2 {
-    text-decoration: underline;
-    font-weight:bold;
-}
-.top-baner-wrap h5 {
-    display: block;
-    font-size: 18px;
-    color: #fff;
-    font-family: helveticaneuecyr-light-webfont;
-    clear: right;
+.page-header .logo-wrap{
+    height: 70%;
 }
 .top-baner-wrap {
     height: 375px;
@@ -73,4 +26,54 @@
     position: relative;
     top: 42.5%;
     transform: translateY(-50%);
+}
+.top-baner-wrap h1 {
+    font-size: 51px;
+    padding-top: 20px;
+    color: #fff;
+    font-family: 'dincondensedc', 'Arial', sans-serif, serif;
+}
+.top-baner-wrap h5 {
+    display: block;
+    font-size: 18px;
+    color: #fff;
+    font-family: helveticaneuecyr-light-webfont;
+    clear: right;
+}
+.podr-info {
+    width: 100%;
+    text-align: justify;
+}
+.podr-info>div {
+    padding-left: 200px;
+    padding-top: 36px;
+    padding-bottom: 40px;
+    padding-right: 200px;
+}
+.podr-info h1 {
+    text-decoration: underline;
+    font-weight:bold;
+    height: 13px;
+}
+.podr-info p {
+    margin: 40px 0;
+    font-size: 19px;
+    font-family: helveticaneuecyr-light-webfont;
+}
+.podr-info ul li {
+    margin: 0 0 10px;
+    padding: 0 0 0 20px;
+    position: relative;
+    font-family: unset;
+    font-size: 18px;
+}
+li.first::after{
+    background: #ffbb02;
+    content: "";
+    height: 6px;
+    left: 2px;
+    position: absolute;
+    top: 7px;
+    width: 6px;
+    border-radius: 50%;
 }

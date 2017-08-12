@@ -6595,9 +6595,10 @@ div.fancybox-inner {
     font: 14px 'GothaPro', Arial, sans-serif;
 }
 
-.promo_usugi_variant {
-    margin: 100px 0 72px;
+.promo_usugi_variant{
+    margin: 0px 0 72px;
 }
+
 .promo_usugi_variant .item{
 margin: 0 0 28px;
 padding: 37px 0 0;
@@ -6673,5 +6674,7 @@ img {
     border-top: 1px solid #cfcfcf;
 
 }
-
+.section-schema wrap{
+    padding: 0 5%;
+}
 
