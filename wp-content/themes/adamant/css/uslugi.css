@@ -45,10 +45,10 @@
     text-align: justify;
 }
 .podr-info>div {
-    padding-left: 200px;
+    margin-left: 151px;
     padding-top: 36px;
     padding-bottom: 40px;
-    padding-right: 200px;
+    margin-right: 151px;
 }
 .podr-info h1 {
     text-decoration: underline;
@@ -85,9 +85,8 @@ td{
     vertical-align:middle;
 }
 td p{
-    padding: 15px 174px 16px 99px;
+    padding: 36px 174px 36px 99px;
     text-align: left;
-    margin-right: 190px;
     font-size: 16px;
     line-height: 24px;
 }
@@ -161,16 +160,14 @@ div#block1{
     border-top: 2px solid #589720;
  }
 .container {
-    width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 31px;
-    padding-right: 31px;
+    width: 1600px;
+    margin-left: 151px;
+    margin-right: 151px;
 }
 .etaps .parent {
     font-size: 0;
     text-align: justify;
-    padding-bottom: 25px;
+    padding-bottom: 36px;
 }
 .etaps .parent:after {
     content: "";
