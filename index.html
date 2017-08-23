@@ -967,58 +967,54 @@
     </footer>
 
     <!--modal-letter-->
-    <div class="modal modal--letter zoom-anim-dialog mfp-hide " id="order-call ">
-        <form id="bk_form " class="letter-form ">
-            <!--<input name="page_title " type="hidden " value="Фарадей Инжиниринг "/>-->
-            <input name="first-name " class="modal__field js-required " type="text " placeholder="Введите Ваше имя " required=" " />
-            <input name="email " class="modal__field js-required " type="text " placeholder="Введите Ваш E-mail " required=" " />
-            <input name="telephone " class="modal__field js-required js-tel " type="text " placeholder="+7 (___) ___-____ " required=" " />
+    <div class="modal modal--letter zoom-anim-dialog mfp-hide" id="order-call">
+        <form id="bk_form" class="letter-form">
+            <!--<input name="page_title" type="hidden" value="Фарадей Инжиниринг"/>-->
+            <input name="first-name" class="modal__field js-required" type="text" placeholder="Введите Ваше имя" required="" />
+            <input name="email" class="modal__field js-required" type="text" placeholder="Введите Ваш E-mail" required="" />
+            <input name="telephone" class="modal__field js-required js-tel" type="text" placeholder="+7 (___) ___-____" required="" />
 
-            <select name="title " class="modal__field js-required ">
-                        <option selected=" " disabled=" ">Выберите тему</option>
-                        <option value="Получить первичную консультацию ">Получить первичную консультацию</option>
-                        <option value="Консультация по оптимизации строительства ">Консультация по оптимизации
-                            строительства
-                        </option>
-                        <option value="Консультирование в выборе подрядчика ">Консультирование в выборе подрядчика
-                        </option>
-                        <option value="Оставить запрос ">Оставить запрос</option>
-                    </select>
-            <textarea name="message " class="modal__field modal__field--textarea js-required " placeholder="Введите текст сообщения " required=" "></textarea>
-            <div class="modal__button-wrap ">
-                <input class="modal__button send_button " type="submit " value="отправить " />
+            <select name="title" class="modal__field js-required">
+                <option selected="" disabled="">Выберите тему</option>
+                <option value="Получить первичную консультацию">Получить первичную консультацию</option>
+                <option value="Консультация по оптимизации строительства">Консультация по оптимизации строительства</option>
+                <option value="Консультирование в выборе подрядчика">Консультирование в выборе подрядчика</option>
+                <option value="Оставить запрос">Оставить запрос</option>
+            </select>
+            <textarea name="message" class="modal__field modal__field--textarea js-required" placeholder="Введите текст сообщения" required=""></textarea>
+            <div class="modal__button-wrap">
+                <input class="modal__button send_button" type="submit" value="отправить"/>
             </div>
         </form>
-    </div>
-    <!--end modal-letter-->
+    </div><!--end modal-letter-->
     <!--modal-send-->
-    <div class="modal-send mfp-hide " id="modal-send ">
-        <p style="line-height: 1.6; ">Спасибо. Ваше сообщение получено.<br> Мы свяжемся с Вами в ближайшее время.
-        </p>
+    <div class="modal-send mfp-hide" id="modal-send">
+        <p style="line-height: 1.6;">Спасибо. Ваше сообщение получено.<br> Мы свяжемся с Вами в ближайшее время.</p>
     </div>
 
     <!--end modal-send-->
 
-    <!--&lt;!&ndash; start Callback &ndash;&gt;-->
+    <!-- start Callback -->
 
-    <!--<div class="callback_01 " ">-->
-    <!--<form id="bk_form_2 " class="letter-form ">        -->
-    <!--<div class="form_input ">-->
-    <!--<input type="text " name="telephone " value=" " id="phone " placeholder="+7 (___) ___-____ " required="required ">-->
-    <!--</div>-->
-    <!--<span>-->
-    <!--<img src="wp-content/themes/adamant/img/telephone_01.png ">-->
-    <!--<input class="send_button_2 " name="send_button " type="submit " value="Перезвонить ">-->
-    <!--</span>-->
-    <!--<ul>-->
-    <!--<li><a class="selected ">Строительство</a></li>-->
-    <!--<li><a>Сотрудничество</a></li>-->
-    <!--</ul>-->
-    <!--<input type="hidden " name="first-name " type="text " value="Быстрый звонок " />-->
-    <!--<input type="hidden " name="email " type="text " value=" " />-->
-    <!--<input type="hidden " name="title " value="Строительство " />-->
-    <!--<input type="hidden " name="message " value="Заказ быстрого звонка через виджет внизу экрана " />-->
-    <!--</form>-->
+    <div class="callback_01"">
+    <form id="bk_form_2" class="letter-form">
+        <div class="form_input">
+            <input type="text" name="telephone" value="" id="phone" placeholder="+7 (___) ___-____" required="required">
+        </div>
+        <span>
+            <img src="http://www.adamant-stroy.ru/wp-content/themes/adamant/img/telephone_01.png">
+            <input class="send_button_2" name="send_button" type="submit" value="Перезвонить">
+        </span>
+        <ul>
+            <li><a class="selected">Строительство</a></li>
+            <li><a>Сотрудничество</a></li>
+        </ul>
+        <input type="hidden" name="first-name" type="text" value="Быстрый звонок" />
+        <input type="hidden" name="email" type="text" value=" " />
+        <input type="hidden" name="title" value="Строительство" />
+        <input type="hidden" name="message" value="Заказ быстрого звонка через виджет внизу экрана" />
+    </form>
+    </div>
 
     <!-- end CallBack -->
 
@@ -1031,9 +1027,38 @@
     <script defer src="wp-content/themes/adamant/js/mes8924.js?v=23012017-01 "></script>
 
     <script src="wp-content/themes/adamant/js/markerclusterer.js "></script>
-    <!--<script src="wp-content/themes/adamant/js/info-box.js "></script>-->
+    <script src="wp-content/themes/adamant/js/info-box.js "></script>
 
     <script>
+        $(document).ready(function(){
+            //load default modal map (byCar)
+            $(".fancy-map").fancybox({
+                width  : '80%',
+                height  : '70%',
+                autoSize : false,
+                closeClick : false,
+                padding:0,
+                wrapCSS: 'popup-map-fancy',
+                afterShow: function(){
+                    launchPopupMap();
+                }
+            });
+
+            function launchPopupMap() {
+                //set active class to default link:
+                $('a[data-map="byCar"]').parent().addClass('active');
+                var popupMap = new ContactsMap(window.popupMapList.byCar);
+
+                //handler on change map:
+                $('a[href^="#popup-map"]').click(function(e){
+                    e.preventDefault();
+                    $('a[href^="#popup-map"]').parent().removeClass('active');
+                    $(this).parent().addClass('active');
+                    popupMap = new ContactsMap(window.popupMapList[$(this).attr('data-map')]);
+                });
+            }
+        });
+
         $(document).ready(function() {
             $(".landing_page_01 a ").click(function() {
                 var target_job = $(this).attr('target');
