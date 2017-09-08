@@ -152,10 +152,11 @@ jQuery(document).ready(function($) {
         id_form.find(button_class).prop('disabled', true);
         $.ajax({
             type: 'post',
+            url: 'mail.php',
             data: 'ajax=mail2&' + id_form.serialize(),
             success: function (result) {
 
-                yaCounter156663.reachGoal('order1');
+                // yaCounter156663.reachGoal('order1');
                 id_form.find(button_class).val('Отправлено!');
                 id_form.find(button_class).addClass('sended');
                 id_form.find(button_class).css('opacity', '1');
@@ -187,18 +188,19 @@ jQuery(document).ready(function($) {
         id_form_2.find(button_class_2).prop('disabled', true);
         $.ajax({
             type: 'post',
+            url: 'mail.php',
             data: 'ajax=mail2&' + id_form_2.serialize(),
             success: function (result) {
 
-                yaCounter156663.reachGoal('order1');
+                // yaCounter156663.reachGoal('order1');
                 id_form_2.find(button_class_2).val('Отправлено!');
                 id_form_2.find(button_class_2).addClass('sended');
 
-                /*setTimeout(function () {
+                setTimeout(function () {
                     id_form_2.find(button_class_2).removeClass('sended');
                     id_form_2.find(button_class_2).val('Отправить');
                     id_form_2.find(button_class_2).prop('disabled', false);
-                }, 2000);*/
+                }, 2000);
 
                 id_form_2.trigger('reset');  // очистить форму
 

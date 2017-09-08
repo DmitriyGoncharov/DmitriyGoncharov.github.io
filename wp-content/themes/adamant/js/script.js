@@ -226,7 +226,7 @@
     $('iframe#superframe').load(function(){
         $('.vacancy_submit').css('opacity', '1');
         $('.vacancy_submit').val('Отправлено!');
-        yaCounter156663.reachGoal('order2');
+        // yaCounter156663.reachGoal('order2');
         /* html = $(this).contents().find('body').html();
          console.log(html); */
     });
